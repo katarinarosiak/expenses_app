@@ -38,10 +38,11 @@ $ ./expense list
 The output will look like this:
 
 $ ./expense list
+
 There are 2 expenses.
   1 | Mon Nov 04 2019 |         4.56 | Coffee
-  2 | Mon Nov 04 2019 |         9.23 | Lunch with client
---------------------------------------------------
+  2 | Mon Nov 05 2019 |         9.23 | Lunch with client
+______________________________________________________
 Total                          13.79
 
 Searching for Specific Expenses:
