@@ -1,4 +1,4 @@
-Expenses 
+
 Expenses is a small comand line application which uses a PostgreSQL database to store data about expenses. 
 
 The program run from the command line with the following command: 
